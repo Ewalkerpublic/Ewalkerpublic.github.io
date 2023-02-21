@@ -80,3 +80,10 @@ footer{
     clear: both;
     border-top: 2px solid maroon;
 }
+
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+}
