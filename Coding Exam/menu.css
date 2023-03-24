@@ -28,6 +28,10 @@ article {
     border-bottom: 2px solid blue;
 }
 
+article h1{
+    column-span: all;
+}
+
 article img{
     float: left;
     margin-right: 1em;
