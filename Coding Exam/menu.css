@@ -15,6 +15,11 @@
 #nav_menu ul li a.current { color: yellow; }
 
 article {clear: both;}
+article h2 ::first-letter{
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+}
 
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type: square;}
