@@ -44,8 +44,11 @@ article p::first-letter{
     font-style: italic;
 }
 
-aside{
-    clear: both;
+aside {
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding-left: 2em;
 }
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type: square;}
