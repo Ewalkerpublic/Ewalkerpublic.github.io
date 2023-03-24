@@ -65,3 +65,12 @@ aside {
 }
 aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type: square;}
+
+footer{
+    clear: both;
+}
+
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+}
