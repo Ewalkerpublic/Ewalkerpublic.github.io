@@ -69,8 +69,7 @@ aside {
     border: 4px blue;
     padding-left: 2em;
 }
-aside ol {list-style-type: upper-roman;
-    float:right;}
+aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type: square;}
 
 footer{
