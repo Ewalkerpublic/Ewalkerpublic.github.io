@@ -33,6 +33,7 @@ body {
 article {clear: both;}
 
 article {
+    clear: left;
     width: 75%;
     float: left;
     column-count: 3;
@@ -61,6 +62,7 @@ article p::first-letter{
 }
 
 aside {
+    clear: right;
     position:fixed;
     width: 20%;
     float: right;
