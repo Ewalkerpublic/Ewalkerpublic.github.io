@@ -33,7 +33,7 @@ body {
 article {clear: both;}
 
 article {
-    clear: left;
+    clear: right;
     width: 75%;
     float: left;
     column-count: 3;
