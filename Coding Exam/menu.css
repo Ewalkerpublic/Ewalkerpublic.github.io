@@ -42,7 +42,6 @@ article {
     margin-left: 2em;
     margin-top: 2em;
     border-top: 2px solid blue;
-    border-bottom: 2px solid blue;
 }
 
 article h1{
@@ -75,6 +74,8 @@ aside ol {list-style-type: upper-roman;}
 aside ul {list-style-type: square;}
 
 footer{
+    border-top 2px solid blue;
+    padding-top: 1em;
     clear: both;
 }
 
