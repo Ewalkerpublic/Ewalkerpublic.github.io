@@ -24,7 +24,8 @@ article {
     column-rule: 4px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2px solid maroon;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
 }
 
 article img{
