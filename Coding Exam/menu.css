@@ -61,7 +61,7 @@ aside {
     width: 20%;
     float: right;
     background-color: lightblue;
-    border: 2px blue;
+    border: 4px blue;
     padding-left: 2em;
 }
 aside ol {list-style-type: upper-roman;}
