@@ -13,7 +13,7 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
-
+#nav_menu{margin:2em;}
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
 #nav_menu ul li a {
