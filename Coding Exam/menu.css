@@ -15,7 +15,14 @@
 #nav_menu ul li a.current { color: yellow; }
 
 article {clear: both;}
-article h2 ::first-letter{
+
+article img{
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
+article p::first-letter{
     font-size: 200%;
     font-weight: bold;
     font-style: italic;
