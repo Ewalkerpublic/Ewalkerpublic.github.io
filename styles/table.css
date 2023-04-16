@@ -37,7 +37,7 @@ html, body {
 
     table.third {
         border-collapse: collapse;
-        padding-bottom: 0.5em;
+        padding-bottom: 1em;
     }
     table.third thead tr:first-child{
         border-top: 2px solid orangered;
