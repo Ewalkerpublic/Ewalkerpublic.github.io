@@ -42,3 +42,7 @@ html, body {
         background-color:greenyellow;
         text-align: center;
     }
+    table.third th, table.third td {
+        padding: 0.7em;
+        border:none;
+    }
