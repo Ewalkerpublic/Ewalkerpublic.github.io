@@ -39,6 +39,10 @@ html, body {
         border-collapse: collapse;
 
     }
+    table.third thead tr:first-child{
+        border-top: 2px solid orangered;
+    }
+
     table.third thead {
         background-color:greenyellow;
         text-align: center;
